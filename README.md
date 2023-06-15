@@ -1,0 +1,1 @@
+# terraform-docker-ecr-ecs
